@@ -3,7 +3,7 @@
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
    "app_AppOpenAdStatus":"0",
    "qureka":"https://659.live.qureka.com/",
-   "qureka_splash":"1",
+   "qureka_splash":"0",
    "qureka_status":"1",
    "qureka_ad_status":"0",
    "qureka_splash_link":"https://659.live.qureka.com/",
@@ -23,14 +23,14 @@
    "topon_inter2":"b5baca54674522",
    "topon_native":"b5aa1fa501d9f6",
    
-   "HARDIK":"1",
+   "HARDIK":"0",
    
    "show_manual_inter":"0",
    
    "on_create_ad_show":"0",
    
    "qureka_load":"0",
-   "one_webify_load":"0",
+   "one_webify_load":"1",
    "gamezop_load":"0",
    "atme_load":"0",
    
@@ -40,11 +40,11 @@
    "atme_link":"https://www.google.co.in/",
    
    "qureka_native":"0",
-   "one_webify_native":"0",
+   "one_webify_native":"1",
    "gamezop_native":"0",
    "atme_native":"0",
    
-   "back_press_ad":"0",
+   "back_press_ad":"1",
    
    "qureka_exit":"0",
    "one_webify_exit":"1",
@@ -52,7 +52,7 @@
    "atme_exit":"0",
    
    "startapp_app_id":"207664604",
-   "show_startapp_ad":"1",
+   "show_startapp_ad":"0",
    
    "tips_for_page_ad":"0 for no ad, 1 for topon fb and admob",
    
